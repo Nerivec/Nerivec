@@ -12,5 +12,3 @@ I help maintain [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt) and a few r
 - [Ember ZLI](https://github.com/Nerivec/ember-zli): A command line tool for Silicon Labs Zigbee chips
 - [Zigbee2MQTT Ember Helper](https://nerivec.github.io/z2m-ember-helper/): A simple log analyzer for Zigbee2MQTT `ember` driver
 - [Silicon Labs firmware](https://github.com/Nerivec/silabs-firmware-builder/releases): Firmware for common Silicon Labs hardware (Zigbee / OpenThread)
-
-[![Nerivec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerivec&show=reviews,prs_merged&show_icons=true&theme=transparent&hide=issues,prs)](https://github.com/Nerivec)
