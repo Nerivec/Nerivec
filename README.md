@@ -13,3 +13,7 @@ I help maintain [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt) and a few r
 - [Zigbee2MQTT Ember Helper](https://nerivec.github.io/z2m-ember-helper/): Simple log analyzer for Zigbee2MQTT `ember` driver
 - [Silicon Labs firmware](https://github.com/Nerivec/silabs-firmware-builder/releases): Firmware for common Silicon Labs hardware (Zigbee / OpenThread)
 - [Zigbee OTA File Editor](https://nerivec.github.io/zigbee-ota-file-editor/): Inspect and edit Zigbee OTA images in your browser
+
+---
+
+[List of merged pull requests](https://github.com/search?q=author%3ANerivec+is%3Apr+is%3Amerged&s=created&type=pullrequests)
